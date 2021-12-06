@@ -1,4 +1,4 @@
-choix = int(input("choisis un nombre\n"))
+choix = int(input("choisis un nombre\n")) #on choisis notre chiffr
 
 def entier_vers_egypt(entier):
     chiffres = [(1000000, "☺"),
